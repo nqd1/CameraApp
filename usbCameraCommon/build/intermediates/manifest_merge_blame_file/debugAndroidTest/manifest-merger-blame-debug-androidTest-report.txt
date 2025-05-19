@@ -1,0 +1,35 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.serenegiant.usbcameracommon.test" >
+4
+5    <uses-sdk
+5-->C:\Users\nqd1\Desktop\2024.2\Android\MyApplication2\usbCameraCommon\build\intermediates\tmp\manifest\androidTest\debug\tempFile1ProcessTestManifest6990259121354515807.xml:5:5-74
+6        android:minSdkVersion="18"
+6-->C:\Users\nqd1\Desktop\2024.2\Android\MyApplication2\usbCameraCommon\build\intermediates\tmp\manifest\androidTest\debug\tempFile1ProcessTestManifest6990259121354515807.xml:5:15-41
+7        android:targetSdkVersion="29" />
+7-->C:\Users\nqd1\Desktop\2024.2\Android\MyApplication2\usbCameraCommon\build\intermediates\tmp\manifest\androidTest\debug\tempFile1ProcessTestManifest6990259121354515807.xml:5:42-71
+8
+9    <instrumentation
+9-->C:\Users\nqd1\Desktop\2024.2\Android\MyApplication2\usbCameraCommon\build\intermediates\tmp\manifest\androidTest\debug\tempFile1ProcessTestManifest6990259121354515807.xml:11:5-15:86
+10        android:name="android.test.InstrumentationTestRunner"
+10-->C:\Users\nqd1\Desktop\2024.2\Android\MyApplication2\usbCameraCommon\build\intermediates\tmp\manifest\androidTest\debug\tempFile1ProcessTestManifest6990259121354515807.xml:11:22-75
+11        android:functionalTest="false"
+11-->C:\Users\nqd1\Desktop\2024.2\Android\MyApplication2\usbCameraCommon\build\intermediates\tmp\manifest\androidTest\debug\tempFile1ProcessTestManifest6990259121354515807.xml:14:22-52
+12        android:handleProfiling="false"
+12-->C:\Users\nqd1\Desktop\2024.2\Android\MyApplication2\usbCameraCommon\build\intermediates\tmp\manifest\androidTest\debug\tempFile1ProcessTestManifest6990259121354515807.xml:13:22-53
+13        android:label="Tests for com.serenegiant.usbcameracommon.test"
+13-->C:\Users\nqd1\Desktop\2024.2\Android\MyApplication2\usbCameraCommon\build\intermediates\tmp\manifest\androidTest\debug\tempFile1ProcessTestManifest6990259121354515807.xml:15:22-84
+14        android:targetPackage="com.serenegiant.usbcameracommon.test" />
+14-->C:\Users\nqd1\Desktop\2024.2\Android\MyApplication2\usbCameraCommon\build\intermediates\tmp\manifest\androidTest\debug\tempFile1ProcessTestManifest6990259121354515807.xml:12:22-82
+15
+16    <application
+16-->C:\Users\nqd1\Desktop\2024.2\Android\MyApplication2\usbCameraCommon\build\intermediates\tmp\manifest\androidTest\debug\tempFile1ProcessTestManifest6990259121354515807.xml:7:5-9:19
+17        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+17-->[androidx.core:core:1.0.0] C:\Users\nqd1\.gradle\caches\transforms-3\bc4d254bce854ebb5062adbada3ada25\transformed\core-1.0.0\AndroidManifest.xml:22:18-86
+18        android:debuggable="true" >
+19        <uses-library android:name="android.test.runner" />
+19-->C:\Users\nqd1\Desktop\2024.2\Android\MyApplication2\usbCameraCommon\build\intermediates\tmp\manifest\androidTest\debug\tempFile1ProcessTestManifest6990259121354515807.xml:8:9-60
+19-->C:\Users\nqd1\Desktop\2024.2\Android\MyApplication2\usbCameraCommon\build\intermediates\tmp\manifest\androidTest\debug\tempFile1ProcessTestManifest6990259121354515807.xml:8:23-57
+20    </application>
+21
+22</manifest>

@@ -1,0 +1,13 @@
+com.serenegiant.uvccamera.test.libuvccamera-preference-1.0.0-0 C:\Users\nqd1\.gradle\caches\transforms-3\2e100dfdd516780c33833ad4a66933ec\transformed\preference-1.0.0\res
+com.serenegiant.uvccamera.test.libuvccamera-recyclerview-1.0.0-1 C:\Users\nqd1\.gradle\caches\transforms-3\33d809cb016f59c870b9198a81faa47b\transformed\recyclerview-1.0.0\res
+com.serenegiant.uvccamera.test.libuvccamera-coordinatorlayout-1.0.0-2 C:\Users\nqd1\.gradle\caches\transforms-3\3fa6512a9d4dee4adc600ab35404b8df\transformed\coordinatorlayout-1.0.0\res
+com.serenegiant.uvccamera.test.libuvccamera-appcompat-1.0.0-3 C:\Users\nqd1\.gradle\caches\transforms-3\595554068089cefae14d0743ab5097a6\transformed\appcompat-1.0.0\res
+com.serenegiant.uvccamera.test.libuvccamera-jetified-common-2.12.4-4 C:\Users\nqd1\.gradle\caches\transforms-3\9f52aa6085fc5c3765b92ae69079c1ec\transformed\jetified-common-2.12.4\res
+com.serenegiant.uvccamera.test.libuvccamera-media-1.0.0-5 C:\Users\nqd1\.gradle\caches\transforms-3\abedd8388bdbd55803e370bace33339f\transformed\media-1.0.0\res
+com.serenegiant.uvccamera.test.libuvccamera-core-1.0.0-6 C:\Users\nqd1\.gradle\caches\transforms-3\bc4d254bce854ebb5062adbada3ada25\transformed\core-1.0.0\res
+com.serenegiant.uvccamera.test.libuvccamera-androidTest-7 C:\Users\nqd1\Desktop\2024.2\Android\MyApplication2\libuvccamera\build\generated\res\resValues\androidTest\debug
+com.serenegiant.uvccamera.test.libuvccamera-androidTest-8 C:\Users\nqd1\Desktop\2024.2\Android\MyApplication2\libuvccamera\build\generated\res\rs\androidTest\debug
+com.serenegiant.uvccamera.test.libuvccamera-mergeDebugAndroidTestResources-9 C:\Users\nqd1\Desktop\2024.2\Android\MyApplication2\libuvccamera\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\merged.dir
+com.serenegiant.uvccamera.test.libuvccamera-mergeDebugAndroidTestResources-10 C:\Users\nqd1\Desktop\2024.2\Android\MyApplication2\libuvccamera\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\stripped.dir
+com.serenegiant.uvccamera.test.libuvccamera-merged_res-11 C:\Users\nqd1\Desktop\2024.2\Android\MyApplication2\libuvccamera\build\intermediates\merged_res\debugAndroidTest
+com.serenegiant.uvccamera.test.libuvccamera-packaged_res-12 C:\Users\nqd1\Desktop\2024.2\Android\MyApplication2\libuvccamera\build\intermediates\packaged_res\debug
