@@ -13,8 +13,14 @@ layout dialog_camera
 layout listitem_device
 string camera
 string no_device
+string permission_audio
+string permission_audio_recording_request
+string permission_camera_request
 string permission_ext_storage
+string permission_ext_storage_request
 string permission_network
+string permission_network_request
+string permission_title
 string refresh
 string select
 xml device_filter

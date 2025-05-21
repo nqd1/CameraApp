@@ -2,6 +2,14 @@
 <resources>
     <string name="camera">カメラ</string>
     <string name="no_device">USBカメラが見つかりません</string>
+    <string name="permission_audio">音声録音の権限が必要です</string>
+    <string name="permission_audio_recording_request">このアプリは音声を録音するために音声録音の権限が必要です</string>
+    <string name="permission_camera_request">このアプリはカメラにアクセスするためにカメラ権限が必要です</string>
+    <string name="permission_ext_storage">外部ストレージへの書き込み権限が必要です</string>
+    <string name="permission_ext_storage_request">このアプリはファイルを保存するために外部ストレージの権限が必要です</string>
+    <string name="permission_network">ネットワークアクセス権限が必要です</string>
+    <string name="permission_network_request">このアプリはインターネットにアクセスするためにネットワーク権限が必要です</string>
+    <string name="permission_title">権限が必要です</string>
     <string name="refresh">更新</string>
     <string name="select">USB Webカメラを選択してください</string>
 </resources>

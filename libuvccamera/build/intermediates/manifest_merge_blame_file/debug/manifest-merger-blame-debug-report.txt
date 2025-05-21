@@ -27,6 +27,6 @@
 27    android:versionName="1.1" >
 28
 29    <uses-sdk android:minSdkVersion="16" />
-29-->C:\Users\nqd1\Desktop\2024.2\Android\MyApplication2\libuvccamera\src\main\AndroidManifest.xml
+29-->C:\Users\nqd1\Desktop\2024.2\Android\uvcApp\libuvccamera\src\main\AndroidManifest.xml
 30
 31</manifest>

@@ -11,8 +11,14 @@ int layout dialog_camera 0x0
 int layout listitem_device 0x0
 int string camera 0x0
 int string no_device 0x0
+int string permission_audio 0x0
+int string permission_audio_recording_request 0x0
+int string permission_camera_request 0x0
 int string permission_ext_storage 0x0
+int string permission_ext_storage_request 0x0
 int string permission_network 0x0
+int string permission_network_request 0x0
+int string permission_title 0x0
 int string refresh 0x0
 int string select 0x0
 int xml device_filter 0x0

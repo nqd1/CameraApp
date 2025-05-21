@@ -7,6 +7,14 @@
       </SelectionState>
       <SelectionState runConfigName="BaseActivity">
         <option name="selectionMode" value="DROPDOWN" />
+        <DropdownSelection timestamp="2025-05-19T07:40:25.151962Z">
+          <Target type="DEFAULT_BOOT">
+            <template>
+              <DeviceId pluginId="FirebaseDirectAccess" type="TEMPLATE" identifier="model_id=e1q/34" />
+            </template>
+          </Target>
+        </DropdownSelection>
+        <DialogSelection />
       </SelectionState>
       <SelectionState runConfigName="BaseActivity (1)">
         <option name="selectionMode" value="DROPDOWN" />
